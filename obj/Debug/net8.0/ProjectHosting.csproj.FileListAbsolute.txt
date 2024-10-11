@@ -1,0 +1,15 @@
+E:\Dio\dotnet\ProjectHosting\bin\Debug\net8.0\ProjectHosting.exe
+E:\Dio\dotnet\ProjectHosting\bin\Debug\net8.0\ProjectHosting.deps.json
+E:\Dio\dotnet\ProjectHosting\bin\Debug\net8.0\ProjectHosting.runtimeconfig.json
+E:\Dio\dotnet\ProjectHosting\bin\Debug\net8.0\ProjectHosting.dll
+E:\Dio\dotnet\ProjectHosting\bin\Debug\net8.0\ProjectHosting.pdb
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ProjectHosting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ProjectHosting.AssemblyInfoInputs.cache
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ProjectHosting.AssemblyInfo.cs
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ProjectHosting.csproj.CoreCompileInputs.cache
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ProjectHosting.sourcelink.json
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ProjectHosting.dll
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\refint\ProjectHosting.dll
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ProjectHosting.pdb
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ProjectHosting.genruntimeconfig.cache
+E:\Dio\dotnet\ProjectHosting\obj\Debug\net8.0\ref\ProjectHosting.dll
